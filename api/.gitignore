@@ -40,7 +40,3 @@ yarn-error.log*
 **/*.log
 package-lock.json
 **/*.bun
-
-# database
-/prisma/dev.db
-/prisma/dev.*
